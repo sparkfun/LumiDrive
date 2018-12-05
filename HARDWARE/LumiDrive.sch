@@ -21231,6 +21231,10 @@ Charge Circuit</text>
 <text x="149.86" y="7.62" size="2.286" layer="94" font="vector">Revised By: Elias Santistevan</text>
 <wire x1="147.32" y1="35.56" x2="147.32" y2="99.06" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="147.32" y1="99.06" x2="0" y2="99.06" width="0.1524" layer="97" style="shortdash"/>
+<text x="14.224" y="137.414" size="1.778" layer="97">3.3-</text>
+<text x="166.878" y="127.254" size="1.778" layer="97">3.3-</text>
+<text x="78.994" y="142.494" size="1.778" layer="97">LEDs</text>
+<text x="152.654" y="117.094" size="1.778" layer="97">LEDs</text>
 </plain>
 <instances>
 <instance part="S1" gate="G$1" x="182.88" y="162.56" smashed="yes" rot="MR0">
