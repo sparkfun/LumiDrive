@@ -1,7 +1,7 @@
-SparkFun <PRODUCT NAME>
+SparkFun LumiDrive LED Driver 
 ========================================
 
-![SparkFun LumiDrive](https://cdn.sparkfun.com/assets/parts/1/3/0/3/0/14779-SparkFun_LumiDrive_LED_Driver-01.jpg)
+![SparkFun LumiDrive LED Driver](https://cdn.sparkfun.com/assets/parts/1/3/0/3/0/14779-SparkFun_LumiDrive_LED_Driver-01.jpg)
 
 [*SparkFun LumiDrive LED Driver (14779)*](https://www.sparkfun.com/products/14779)
 
