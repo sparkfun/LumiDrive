@@ -14,12 +14,13 @@ The SparkFun LumiDrive has been equipped with a USB-C connector which is capable
 Repository Contents
 -------------------
 
-* **/Buzzard Labels** - 
+* **/Buzzard Labels** - Silkscreen Libraries for Eagle Files
 * **/Hardware** - Eagle design files (.brd, .sch)
 
 Documentation
 --------------
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/lumidrive-hookup-guide)** - Basic hookup guide for the LumiDrive LED Driver.
+* **[Example Code](https://github.com/sparkfun/SparkFun_LumiDrive_Example_Code)** - Example Code for the LumiDrive LED Driver.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
 
